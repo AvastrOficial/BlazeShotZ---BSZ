@@ -1,4 +1,4 @@
-# BlazeShotZ - Página de Estilos Instagram
+# BlazeShotZ - BSZ
 Descripción
 Esta página web proporciona una interfaz para que los usuarios carguen imágenes y apliquen diversos estilos y efectos. Desde estilos clásicos como blanco y negro hasta efectos de animación, los usuarios pueden experimentar con distintas opciones y guardar sus creaciones.
 
